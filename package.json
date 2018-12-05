@@ -1,0 +1,27 @@
+{
+  "name": "react-native-notifyer-pr",
+  "version": "0.1.1",
+  "description": "React Native Notifyer (toast, banner and loading spinner)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "component",
+    "ios",
+    "android",
+    "notification",
+    "banner",
+    "toast",
+    "loading"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bundleDependencies": false,
+  "dependencies": {
+    "@bam.tech/react-native-root-siblings": "^1.2.1"
+  },
+  "deprecated": false
+}
